@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1aafd9a7-5518-df38-3e64-3d77264f21f4}</ProjectGuid>
+    <ProjectGuid>{1b3f1790-fe82-817f-0a84-58141032b93e}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -613,43 +613,43 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>D:\UnityProjects\Game-Mechanics-Quest\Fighting Combos System\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>D:\UnityProjects\FGI\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
